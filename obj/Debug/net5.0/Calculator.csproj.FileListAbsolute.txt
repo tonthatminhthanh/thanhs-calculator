@@ -1,0 +1,16 @@
+/home/rin/Documents/Projects/OOP/Calculator/bin/Debug/net5.0/Calculator
+/home/rin/Documents/Projects/OOP/Calculator/bin/Debug/net5.0/Calculator.deps.json
+/home/rin/Documents/Projects/OOP/Calculator/bin/Debug/net5.0/Calculator.runtimeconfig.json
+/home/rin/Documents/Projects/OOP/Calculator/bin/Debug/net5.0/Calculator.runtimeconfig.dev.json
+/home/rin/Documents/Projects/OOP/Calculator/bin/Debug/net5.0/Calculator.dll
+/home/rin/Documents/Projects/OOP/Calculator/bin/Debug/net5.0/ref/Calculator.dll
+/home/rin/Documents/Projects/OOP/Calculator/bin/Debug/net5.0/Calculator.pdb
+/home/rin/Documents/Projects/OOP/Calculator/obj/Debug/net5.0/Calculator.csproj.AssemblyReference.cache
+/home/rin/Documents/Projects/OOP/Calculator/obj/Debug/net5.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/rin/Documents/Projects/OOP/Calculator/obj/Debug/net5.0/Calculator.AssemblyInfoInputs.cache
+/home/rin/Documents/Projects/OOP/Calculator/obj/Debug/net5.0/Calculator.AssemblyInfo.cs
+/home/rin/Documents/Projects/OOP/Calculator/obj/Debug/net5.0/Calculator.csproj.CoreCompileInputs.cache
+/home/rin/Documents/Projects/OOP/Calculator/obj/Debug/net5.0/Calculator.dll
+/home/rin/Documents/Projects/OOP/Calculator/obj/Debug/net5.0/ref/Calculator.dll
+/home/rin/Documents/Projects/OOP/Calculator/obj/Debug/net5.0/Calculator.pdb
+/home/rin/Documents/Projects/OOP/Calculator/obj/Debug/net5.0/Calculator.genruntimeconfig.cache
